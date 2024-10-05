@@ -2,6 +2,7 @@
 # Bootcamp_Avanti_Atlantico_de_Machine_Learning
 Este repositório contém conteúdos e as soluções das atividades e desafios propostos ao longo do curso de Machine Learning.
 
+![image](https://github.com/user-attachments/assets/dd06ab85-4ccf-4666-9f8e-2b566572cda9)
 
 
 -----
