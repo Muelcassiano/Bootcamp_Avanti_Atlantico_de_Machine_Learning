@@ -24,9 +24,9 @@ Este repositório contém conteúdos e as soluções das atividades e desafios p
 | `04` | `16/10`  | **Mód 3** - Unid. 1 e 2 | ● **UNIDADE 1** – Pré-processamento em base dados<br>● **UNIDADE 2** – Pré-processamento de imagens | - |
 | `05` | `26/10`  | **Mód 3** - Unid. 3 e 4  | ● **UNIDADE 3** – Introdução a Redes Neurais Convolucionais (CNNs)<br>● **UNIDADE 4** – Redes Neurais Convolucionais para a classificação e segmentação de imagens | ● **Atividade 02** (ATIV-02).<br><br>● **Atividade 04** (ATIV-04-ET-01) - Apresentar as informações do dataset. |
 | `06` | `09/11`  | **Mód 3** - Unid. 4  | ● **UNIDADE 4** – Redes Neurais Convolucionais para a classificação e segmentação de imagens | ● **Atividade 04** (ATIV-04-ET-02) - Apresentar métodos da literatura e propor ideias para os métodos próprios. |
-| `07` | `13/10`  | **Mód 3** - Unid. 5  | ● **UNIDADE 5** – Métricas para avaliar o modelo preditivo. | - |
-| `08` | `23/10`  | **Mód 3** - Unid. 5  | ● **UNIDADE 5** – Métricas para avaliar o modelo preditivo. | - |
-| `09` | `30/10`  | - | ● **UNIDADE 5** – Métricas para avaliar o modelo preditivo. | ● **Atividade 04** (ATIV-04-ET-03) - Apresentar os métodos da literatura e métodos próprios. |
+| `07` | `13/11`  | **Mód 3** - Unid. 5  | ● **UNIDADE 5** – Métricas para avaliar o modelo preditivo. | - |
+| `08` | `23/11`  | **Mód 3** - Unid. 5  | ● **UNIDADE 5** – Métricas para avaliar o modelo preditivo. | - |
+| `09` | `30/11`  | - | ● **UNIDADE 5** – Métricas para avaliar o modelo preditivo. | ● **Atividade 04** (ATIV-04-ET-03) - Apresentar os métodos da literatura e métodos próprios. |
 
 
 
