@@ -10,6 +10,7 @@ Este repositório contém conteúdos e as soluções das atividades e desafios p
 
 - [Módulo 00](https://github.com/Muelcassiano/Bootcamp_Avanti_Atlantico_de_Machine_Learning/tree/main/Modulo_00)
 - [Módulo 01](https://github.com/Muelcassiano/Bootcamp_Avanti_Atlantico_de_Machine_Learning/tree/main/Modulo_01)
+- [Módulo 02](https://github.com/Muelcassiano/Bootcamp_Avanti_Atlantico_de_Machine_Learning/tree/main/Modulo_02)
 - [Em Construção...]()
 
 
